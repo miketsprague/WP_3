@@ -214,7 +214,7 @@ background: url('writ_2_logo.png') no-repeat top left;
 -->
 <div id="nav-wrap">
     <nav class="">
-        <h1> <a href="#" /></h1>
+        <h1> <a href="#"></a></h1>
         <ul id="primary-nav" class="">
             <li class="gear">
                 <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Gear</a></h2>
@@ -670,7 +670,7 @@ background: url('writ_2_logo.png') no-repeat top left;
 </div><!-- /#nav-wrap -->
 
     <div id="leaderboard">
-      <img alt="Enroll Now!" src="Ad.png" /> <script type="text/javascript">
+     <a href="http://www.linkedin.com/pub/michael-joiner/65/b0b/305"> <img alt="Enroll Now!" src="Ad.png" /></a> <script type="text/javascript">
 //<!--
 if(typeof CN!=="undefined" && CN.dart){  CN.dart.call("header",{    sz: "728x90",    kws : ["top"],    collapse : 'false'  });}
 //-->
@@ -694,15 +694,15 @@ if(typeof CN!=="undefined" && CN.dart){  CN.dart.call("header",{    sz: "728x90"
         
                     <div id="header">
                 <a id="blog_header" href="http://www.wired.com/business/">
-                                            <div class="blogName">Business</div>
+                                            <div class="blogName">Writing</div>
                     
                     <span class="blogInfo">People and Technologies That Matter</span>
                 </a>
-                <div id="entrySectionsMask"><ul id="entrySections" class=""><li class="button"><a href="index.html#">Expand/Collapse</a></li><li><a href="http://www.wired.com/business/section/startups/"><strong>Startups</strong></a></li><li><a href="http://www.wired.com/business/section/10-questions-2/">10 Questions</a></li><li><a href="http://www.wired.com/business/section/bender/">Bender</a></li><li><a href="http://www.wired.com/business/section/big-tech/">Big Tech</a></li><li><a href="http://www.wired.com/business/section/data/">Data</a></li><li><a href="http://www.wired.com/business/section/digitalcontent/">Digital Content</a></li><li><a href="http://www.wired.com/business/section/education-3/">Education</a></li><li><a href="http://www.wired.com/business/section/hardware/">Hardware</a></li><li><a href="http://www.wired.com/business/section/health-science/">Health Science</a></li><li><a href="http://www.wired.com/business/section/infographics/">Infographics</a></li><li><a href="http://www.wired.com/business/section/markets-2/">Markets</a></li><li><a href="http://www.wired.com/business/section/mobile/">Mobile</a></li><li><a href="http://www.wired.com/business/section/retail/">Retail</a></li><li><a href="http://www.wired.com/business/section/social/">Social</a></li></ul></div><div id="entryCategoriesWrapper"><ul id="entryCategories"><li><a href="http://www.wired.com/business/category/venture-capital/">Venture Capital</a></li></ul></div>            </div>
+                <div id="entrySectionsMask"><ul id="entrySections" class=""><li class="button"><a href="index.html#">Expand/Collapse</a></li><li><a href="http://www.wired.com/business/section/startups/"><strong>UCSB</strong></a></li><li><a href="http://www.wired.com/business/section/10-questions-2/">10 Questions</a></li><li><a href="http://www.wired.com/business/section/bender/">Bender</a></li><li><a href="http://www.wired.com/business/section/big-tech/">Big Tech</a></li><li><a href="http://www.wired.com/business/section/data/">Data</a></li><li><a href="http://www.wired.com/business/section/digitalcontent/">Digital Content</a></li><li><a href="http://www.wired.com/business/section/education-3/">Education</a></li><li><a href="http://www.wired.com/business/section/hardware/">Hardware</a></li><li><a href="http://www.wired.com/business/section/health-science/">Health Science</a></li><li><a href="http://www.wired.com/business/section/infographics/">Infographics</a></li><li><a href="http://www.wired.com/business/section/markets-2/">Markets</a></li><li><a href="http://www.wired.com/business/section/mobile/">Mobile</a></li><li><a href="http://www.wired.com/business/section/retail/">Retail</a></li><li><a href="http://www.wired.com/business/section/social/">Social</a></li></ul></div><div id="entryCategoriesWrapper"><ul id="entryCategories"><li><a href="http://www.wired.com/business/category/venture-capital/">Homework</a></li></ul></div>            </div>
             <div class="clear"></div>
             
         <div class="post" id="post-74972">
-    <div class="social-top"><div class="social_bookmarking_module "><ul><li class="sb_button sb_facebook-small"><div class="fb-like" data-href="http://www.wired.com/business/2013/02/keith-rabois-khosla-ventures/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false"></div></li><li class="sb_button sb_twitter-small"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"></a></li><li class="sb_button sb_google-small"><g:plusone size="medium" href="http://www.wired.com/business/2013/02/keith-rabois-khosla-ventures/"></g:plusone></li><li class="sb_button sb_linkedin-small"><script type="IN/Share" data-url="http://www.wired.com/business/2013/02/keith-rabois-khosla-ventures/" data-counter="right"></script></li></ul><div class="clear"></div></div></div>
+    <div class="social-top"><div class="social_bookmarking_module "><ul><li class="sb_button sb_facebook-small"><div class="fb-like" data-href="https://www.facebook.com/f4ep" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false"></div></li><li class="sb_button sb_twitter-small"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"></a></li><li class="sb_button sb_google-small"><g:plusone size="medium" href="http://www.wired.com/business/2013/02/keith-rabois-khosla-ventures/"></g:plusone></li><li class="sb_button sb_linkedin-small"><script type="IN/Share" data-url="http://www.wired.com/business/2013/02/keith-rabois-khosla-ventures/" data-counter="right"></script></li></ul><div class="clear"></div></div></div>
     
     <h1>WP 3 Project</h1>
 
