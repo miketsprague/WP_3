@@ -711,7 +711,7 @@ if(typeof CN!=="undefined" && CN.dart){  CN.dart.call("header",{    sz: "728x90"
 
 
 <ul>
-    <li class="author">By <a href="http://www.wired.com/business/author/sarah-mitroff/">Sarah Mitroff</a></li><li class="entryDate">02.26.13</li><li class="entryTime">2:36 PM</li><li class="entryEdit" style="display:none"><a href="http://www.wired.com/business/wp-admin/post.php?post=74972&amp;action=edit">&nbsp;Edit</a></li></ul>
+    <li class="author">By <a href="http://www.wired.com/business/author/sarah-mitroff/">Mike Sprague</a></li><li class="entryDate">03.3.13</li><li class="entryTime">1:00 PM</li><li class="entryEdit" style="display:none"><a href="http://www.wired.com/business/wp-admin/post.php?post=74972&amp;action=edit">&nbsp;Edit</a></li></ul>
 
 
 </div>
@@ -721,7 +721,7 @@ if(typeof CN!=="undefined" && CN.dart){  CN.dart.call("header",{    sz: "728x90"
 Information goes here for WP 3 article.  I can reference whatever sort of inline references or try to get more creative with how I incorporate information.  Note: I am note affiliated with wired nor do I own any of this content other than the text that has been written.  <br> <br> <br><br><br><br><br><br><br> Mike Sprague
 <div id='linker_widget'></div>            </div>
 
-    <div class="bio"><div class="bio_avatar"><a href="http://www.wired.com/business/author/sarah-mitroff/" title="Read more by Sarah Mitroff"><img src="http://www.wired.com/business/wp-content/gallery/biopics/hs-sarahmitroff.jpg" alt="Sarah Mitroff" width="50" /></a></div><div class="bio_copy"><p>Sarah is a reporter for Wired Business, covering young startups and Silicon Valley culture. Pitch her funding and startup news at sarah_mitroff at wired dot com.</p><p><a href="http://www.wired.com/business/author/sarah-mitroff/">Read more by Sarah Mitroff</a></p></div><div class="clear"></div></div><div class="entry-footer">
+   <div class="entry-footer">
     <div class="entryTags">
         Tags: <a href="http://www.wired.com/business/tag/keith-rabois/" rel="tag">Keith Rabois</a>, <a href="http://www.wired.com/business/tag/khosla-ventures/" rel="tag">Khosla Ventures</a>, <a href="http://www.wired.com/business/tag/square/" rel="tag">square</a>, <a href="http://www.wired.com/business/tag/vinod-khosla/" rel="tag">Vinod Khosla</a>    </div>
 
@@ -1064,7 +1064,7 @@ setInterval("runAdRefresh()", 900000);CN.debug.info('Ad Refresh Interval: 15 min
             try { s.prop10=s.prop1.replace(/ /g,','); } catch(err) { s.prop10=""; }
             s.prop51="Non-Mobile";
             // Author Name
-            s.prop55="Sarah Mitroff";
+            s.prop55="Mike Sprague";
             s.events="";
             s.hier1="business,2013,02,keith-rabois-khosla-ventures";
             s.eVar51="Non-Mobile";
