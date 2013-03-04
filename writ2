@@ -1184,11 +1184,11 @@
                         </div>
                         </p>
                         <?php include("text.html"); ?>
-                        <div id='linker_widget'></div>
+                     <!--  NO <div id='linker_widget'></div> -->
                      </div>
                      <div class="entry-footer">
                         <div class="entryTags">
-                           Tags: <a href="http://www.wired.com/business/tag/keith-rabois/" rel="tag">Keith Rabois</a>, <a href="http://www.wired.com/business/tag/khosla-ventures/" rel="tag">Khosla Ventures</a>, <a href="http://www.wired.com/business/tag/square/" rel="tag">square</a>, <a href="http://www.wired.com/business/tag/vinod-khosla/" rel="tag">Vinod Khosla</a>    
+                           Tags: <a href="http://www.wired.com/business/tag/keith-rabois/" rel="tag">Mike Joiner</a>, <a href="http://www.wired.com/business/tag/khosla-ventures/" rel="tag">UCSB</a>, <a href="http://www.wired.com/business/tag/square/" rel="tag">Writing 2</a>, <a href="http://www.wired.com/business/tag/vinod-khosla/" rel="tag">Academic Writing</a>    
                         </div>
                         <div class="entryExtra">
                            <ul>
@@ -1277,10 +1277,10 @@
                      <script type="text/javascript">
                         /* <![CDATA[ */
                         (function() {
-                            var dsq = document.createElement('script'); dsq.type = 'text/javascript';
-                            dsq.async = true;
-                            dsq.src = 'http' + '://' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.73';
-                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                          //  var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+                          //  dsq.async = true;
+                          //  dsq.src = 'http://miketsprague.com';
+                          //  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
                         })();
                         /* ]]> */
                      </script>
@@ -1327,46 +1327,46 @@
                      <li class="promo-item" id="promo-item-count2">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/gadgetlab/2013/02/cablevision-sues-viacom/"><img src="http://www.wired.com/images_blogs/gadgetlab/2013/02/4498314550_8815295265_b-200x100.jpg" class="post-thumb" alt="Cablevision Sues Viacom Over Bundled Channels" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/gadgetlab/2013/02/cablevision-sues-viacom/">Cablevision Sues Viacom Over Bundled Channels</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/gadgetlab/2013/02/cablevision-sues-viacom/">What Edgar Allen Poe's Workspace Would Have Looked Like If He Were Alive Today (Alas, He is Alive Nevermore)</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count3">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/dangerroom/2013/02/secretary-hagel/"><img src="http://www.wired.com/images_blogs/dangerroom/2013/02/hagelspeech-200x100.jpg" class="post-thumb" alt="Chuck Hagel Becomes Defense Secretary In Time for Military Budget Chaos" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/dangerroom/2013/02/secretary-hagel/">Chuck Hagel Becomes Defense Secretary In Time for Military Budget Chaos</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/dangerroom/2013/02/secretary-hagel/">Stanford Discusses Reader's Digest Effective Strategy For Shortening Titles</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count4">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/gadgetlab/2013/02/music-sales-grow/"><img src="http://www.wired.com/images_blogs/gadgetlab/2013/02/1226_googlemusic_1200-200x100.jpeg" class="post-thumb" alt="Music Sales Have Biggest Jump in MP3 Age" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/gadgetlab/2013/02/music-sales-grow/">Music Sales Have Biggest Jump in MP3 Age</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/gadgetlab/2013/02/music-sales-grow/">Opinion: Why My Writing is Better Than Yours: I Use a Macbook</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count5">
-                        <div class="promo-thumbnail"><a href="http://www.wired.com/underwire/2013/02/henri-short-film/"><img src="http://www.wired.com/images_blogs/underwire/2015/02/HENRi-200x100.jpg" class="post-thumb" alt="Exclusive Video: Watch a Research Spaceship Become Self-Aware in the Short Film HENRi" /></a></div>
+                        <div class="promo-thumbnail"><a href="http://www.wired.com/underwire/2013/02/henri-short-film/"><img src="http://www.wired.com/images_blogs/underwire/2015/02/HENRi-200x100.jpg" class="post-thumb" alt="Exclusive Video: Robot Refuses to Use the Oxford Comma" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/underwire/2013/02/henri-short-film/">Exclusive Video: Watch a Research Spaceship Become Self-Aware in the Short Film HENRi</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/underwire/2013/02/henri-short-film/">Exclusive Video: Robot Refuses to Use the Oxford Comma</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count6">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/autopia/2013/02/nissan-lemans-2014/"><img src="http://www.wired.com/images_blogs/autopia/2013/02/Nissan-Leaf-RC-04-featured-200x100.jpg" class="post-thumb" alt="Nissan Promises Electric Race Car for LeMans" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/autopia/2013/02/nissan-lemans-2014/">Nissan Promises Electric Race Car for LeMans</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/autopia/2013/02/nissan-lemans-2014/">Academic Writing Races to the Top, Ranking 3rd in a New Popularity Study</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count7">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/dangerroom/2013/02/taliban-attacks/"><img src="http://www.wired.com/images_blogs/dangerroom/2013/02/kunar-200x100.jpg" class="post-thumb" alt="‘Data-Entry Error’ Led Military to Falsely Claim Taliban Attacks Are Down" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/dangerroom/2013/02/taliban-attacks/">‘Data-Entry Error’ Led Military to Falsely Claim Taliban Attacks Are Down</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/dangerroom/2013/02/taliban-attacks/">A Sneak Peak at Common Conventions in Military Poetry</a></div>
                         </div>
                      </li>
                   </div>
                   <div id="mostpopularwidget-2" class="widget MostPopularWidget">
-                     <h4>Trending Now on Wired</h4>
+                     <h4>Trending Now on Writ2</h4>
                      <a class="module-mostpopular" href="http://wired.com/business/2013/02/yahoo-no-work-from-home/">
                         <div class="even">
                            <div class="sotw_link_popular">
-                              <p>Marissa Mayer's No-Working-From-Home Rule Is Stupid — Or It Could Save Yahoo</p>
+                              <p>How to Reduce Your Chances of Getting Caught For Plagarism</p>
                            </div>
                            <div class="popularity-line" style="width:250px; opacity:1;">
                               <!--565 | 250 | 1 -->
@@ -1376,7 +1376,7 @@
                      <a class="module-mostpopular" href="http://wired.com/threatlevel/2013/02/new-stuxnet-variant-found/">
                         <div class="odd">
                            <div class="sotw_link_popular">
-                              <p>Stuxnet Missing Link Found, Resolves Some Mysteries Around the Cyberweapon</p>
+                              <p>Bunn Held in Jail Under Allegations of Exploiting Setence Ending Prepositions</p>
                            </div>
                            <div class="popularity-line" style="width:162px; opacity:0.64778761061947;">
                               <!--366 | 162 | 0.64778761061947 -->
@@ -1386,7 +1386,7 @@
                      <a class="module-mostpopular" href="http://wired.com/design/2013/02/freescales-tiny-arm-chip/">
                         <div class="even">
                            <div class="sotw_link_popular">
-                              <p>Freescale's Insanely Tiny ARM Chip Will Put the Internet of Things Inside Your Body</p>
+                              <p>What dangling participles are REALLY used for</p>
                            </div>
                            <div class="popularity-line" style="width:142px; opacity:0.56991150442478;">
                               <!--322 | 142 | 0.56991150442478 -->
@@ -1396,7 +1396,7 @@
                      <a class="module-mostpopular" href="http://wired.com/business/2013/02/amazing-3d-desktop/">
                         <div class="odd">
                            <div class="sotw_link_popular">
-                              <p>This Amazing 3-D Desktop Was Born at Microsoft</p>
+                              <p>Joiner Releases a Shocking Announcment On Twitter</p>
                            </div>
                            <div class="popularity-line" style="width:131px; opacity:0.52566371681416;">
                               <!--297 | 131 | 0.52566371681416 -->
@@ -1406,7 +1406,7 @@
                      <a class="module-mostpopular" href="http://wired.com/playbook/2013/02/ff-cold-weight-loss/">
                         <div class="even">
                            <div class="sotw_link_popular">
-                              <p>Hot Trend: Tapping the Power of Cold to Lose Weight</p>
+                              <p>Hot Trend: Use Subjectivity, not Objectivity</p>
                            </div>
                            <div class="popularity-line" style="width:72px; opacity:0.28849557522124;">
                               <!--163 | 72 | 0.28849557522124 -->
@@ -1423,7 +1423,7 @@
                   </div>
                   <div id="wiredwidgetsecommerce-3" class="widget WiredWidgetsEcommerce">
                      <div id="blogs_rightRail_A">
-                        <h4><span>Subscribe to Wired Magazine</span></h4>
+                        <h4><span>Subscribe to Writ2 Magazine</span></h4>
                         <div id="AMS_WIR_BLOGS_RIGHTRAIL_A">
                            <div class="sub_unit">
                               <div class="cover_img"><a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe"><img alt="Subscribe to Wired Magazine" src="http://www.wired.com/images/subscribe/xrail_cover.gif" /></a></div>
@@ -1465,14 +1465,14 @@
                      <h4>Masthead</h4>
                      <div class="textwidget">
                         <div id="masthead">
-                           <h3 id="masthead-title"><span class="kicker">Wired</span> business</h3>
+                           <h3 id="masthead-title"><span class="kicker">Writ2</span> business</h3>
                            <ul class="masthead-list">
                               <li class="masthead-sublist">
                                  <ul>
                                     <li class="masthead-sub">
                                        <h3>Editor</h3>
                                     </li>
-                                    <li><a href="http://www.wired.com/business/author/mcopeland/">Michael V. Copeland</a></li>
+                                    <li><a href="http://www.wired.com/business/author/mcopeland/">Mike Sprague</a></li>
                                  </ul>
                               </li>
                               <li class="masthead-sublist">
@@ -1480,7 +1480,7 @@
                                     <li class="masthead-sub">
                                        <h3>Senior Writer</h3>
                                     </li>
-                                    <li><a href="http://www.wired.com/business/author/rtate/">Ryan Tate</a></li>
+                                    <li><a href="http://www.wired.com/business/author/rtate/">Mike Sprague</a></li>
                                  </ul>
                               </li>
                               <li class="masthead-sublist">
@@ -1488,7 +1488,7 @@
                                     <li class="masthead-sub">
                                        <h3>Staff Writer</h3>
                                     </li>
-                                    <li><a href="http://www.wired.com/business/author/marcuswohlsen/">Marcus Wohlsen</a></li>
+                                    <li><a href="http://www.wired.com/business/author/marcuswohlsen/">Mike Sprague</a></li>
                                  </ul>
                               </li>
                               <li class="masthead-sublist">
@@ -1496,7 +1496,7 @@
                                     <li class="masthead-sub">
                                        <h3>Reporter</h3>
                                     </li>
-                                    <li><a href="http://www.wired.com/business/author/sarah-mitroff/">Sarah Mitroff</a></li>
+                                    <li><a href="http://www.wired.com/business/author/sarah-mitroff/">Mike Sprague</a></li>
                                  </ul>
                               </li>
                               <li class="masthead-sublist">
@@ -1504,7 +1504,7 @@
                                     <li class="masthead-sub">
                                        <h3>Contributor</h3>
                                     </li>
-                                    <li><a href="http://www.wired.com/business/author/fvogelstein/">Fred Vogelstein</a></li>
+                                    <li><a href="http://www.wired.com/business/author/fvogelstein/">Mike Sprague</a></li>
                                  </ul>
                               </li>
                            </ul>
