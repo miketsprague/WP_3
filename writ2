@@ -6,7 +6,7 @@
          return[0,"//cdn.mobify.com/sites/wired/production/a.js"]})/*]]>*/
       </script>
       <!-- END MOBIFY -->
-      <title>WP 3</title>
+      <title>WRIT2</title>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <!-- WP_HEAD -->
       <!-- Google Site Speed -->
@@ -204,7 +204,7 @@
                <h1> <a href="#"></a></h1>
                <ul id="primary-nav" class="">
                   <li class="gear">
-                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Gear</a></h2>
+                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Writing</a></h2>
                      <ul class="subnav">
                         <li class="gadgetlab">
                            <!-- cached custom_feed_global-nav_gadgetlab on 2013-02-27 06:27:43 from http://www.wired.com/gadgetlab/?feed=global-nav -->
@@ -309,7 +309,7 @@
                   </li>
                   <!-- /.gear -->
                   <li class="science">
-                     <h2><a class="non-js-menu" href="http://www.wired.com/wiredscience/">Science</a></h2>
+                     <h2><a class="non-js-menu" href="http://www.wired.com/wiredscience/">Homework</a></h2>
                      <ul class="subnav">
                         <li class="wiredscience">
                            <!-- cached custom_feed_global-nav_wiredscience on 2013-02-27 06:50:08 from http://www.wired.com/wiredscience/?feed=global-nav -->
@@ -381,7 +381,7 @@
                   </li>
                   <!-- /.science -->
                   <li class="entertainment">
-                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Entertainment</a></h2>
+                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Grammar</a></h2>
                      <ul class="subnav">
                         <li class="underwire">
                            <!-- cached custom_feed_global-nav_underwire on 2013-02-27 06:50:09 from http://www.wired.com/underwire/?feed=global-nav -->
@@ -552,7 +552,7 @@
                   </li>
                   <!-- /.entertainment -->
                   <li class="business">
-                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Business</a></h2>
+                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">News</a></h2>
                      <ul class="subnav">
                         <li class="business">
                            <!-- cached custom_feed_global-nav_business on 2013-02-27 06:44:42 from http://www.wired.com/business/?feed=global-nav -->
@@ -712,7 +712,7 @@
                   </li>
                   <!-- /.business -->
                   <li class="security">
-                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Security</a></h2>
+                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Academic</a></h2>
                      <ul class="subnav">
                         <li class="dangerroom">
                            <!-- cached custom_feed_global-nav_dangerroom on 2013-02-27 06:22:24 from http://www.wired.com/dangerroom/?feed=global-nav -->
@@ -784,7 +784,7 @@
                   </li>
                   <!-- /.security -->
                   <li class="design">
-                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Design</a></h2>
+                     <h2><a class="non-js-menu" href="http://www.wired.com/about/sitemap/">Popular</a></h2>
                      <ul class="subnav">
                         <li class="design">
                            <!-- cached custom_feed_global-nav_design on 2013-02-27 06:22:27 from http://www.wired.com/design/?feed=global-nav -->
@@ -1097,15 +1097,6 @@
                   //-->
             </script>
          </div>
-         <div class="subscriptionUnit">
-            <div id="AMS_WIR_CONTENTPAGE_HEADERCALLOUT">
-               <a target="_blank" href="https://w1.buysub.com/loc/WIR/ATGFailsafe"><img alt="Subscribe to Wired Magazine" src="http://www.wired.com/images/subscribe/gh_lb_cm_small.gif" /></a><script type="text/javascript">
-                  //<!--
-                     (function(){if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_WIR_CONTENTPAGE_HEADERCALLOUT != 'undefined') && (CN.url.params('nojoy') != 1) ) {var div = document.getElementById("AMS_WIR_CONTENTPAGE_HEADERCALLOUT");div.innerHTML = "";document.write(pageAds.AMS_WIR_CONTENTPAGE_HEADERCALLOUT);}})();
-                     //-->
-               </script>
-            </div>
-         </div>
          <div class="clear"></div>
       </div>
       </div>
@@ -1310,7 +1301,7 @@
                      </div>
                   </div>
                   <div id="text-14" class="widget widget_text">
-                     <div class="textwidget"><a href="http://www.wired.com/underwire/star-wars-2013"><img src="http://www.wired.com/images_blogs/business/2013/02/sw-xrail-allblogs.jpg"></a>
+                     <div class="textwidget"><a href="http://www.wired.com/underwire/star-wars-2013"><img src="http://blogs.eciad.ca/wc/files/2013/01/WriteClube-Colour1-300x180.jpg"></a>
                      </div>
                   </div>
                   <div id="rssaggregatorwidget-2" class="widget RSSAggregatorWidget">
@@ -1333,7 +1324,7 @@
                      <li class="promo-item" id="promo-item-count3">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/dangerroom/2013/02/secretary-hagel/"><img src="http://www.wired.com/images_blogs/dangerroom/2013/02/hagelspeech-200x100.jpg" class="post-thumb" alt="Chuck Hagel Becomes Defense Secretary In Time for Military Budget Chaos" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/dangerroom/2013/02/secretary-hagel/">Stanford Discusses Reader's Digest Effective Strategy For Shortening Titles</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/dangerroom/2013/02/secretary-hagel/">Stanford Discusses Reader's Digest's Effective Strategy For Shortening Titles</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count4">
@@ -1351,7 +1342,7 @@
                      <li class="promo-item" id="promo-item-count6">
                         <div class="promo-thumbnail"><a href="http://www.wired.com/autopia/2013/02/nissan-lemans-2014/"><img src="http://www.wired.com/images_blogs/autopia/2013/02/Nissan-Leaf-RC-04-featured-200x100.jpg" class="post-thumb" alt="Nissan Promises Electric Race Car for LeMans" /></a></div>
                         <div class="promo-wrapper">
-                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/autopia/2013/02/nissan-lemans-2014/">Academic Writing Races to the Top, Ranking 3rd in a New Popularity Study</a></div>
+                           <div class="promo-headline"><a class="module-rsswidget" href="http://www.wired.com/autopia/2013/02/nissan-lemans-2014/">Academic Writing Races to the Top, Now Ranking 3rd in a New Popularity Study</a></div>
                         </div>
                      </li>
                      <li class="promo-item" id="promo-item-count7">
@@ -1376,7 +1367,7 @@
                      <a class="module-mostpopular" href="http://wired.com/threatlevel/2013/02/new-stuxnet-variant-found/">
                         <div class="odd">
                            <div class="sotw_link_popular">
-                              <p>Bunn Held in Jail Under Allegations of Exploiting Setence Ending Prepositions</p>
+                              <p>Bunn Held in Jail Under Allegations of Exploiting Sentence-Ending Prepositions</p>
                            </div>
                            <div class="popularity-line" style="width:162px; opacity:0.64778761061947;">
                               <!--366 | 162 | 0.64778761061947 -->
